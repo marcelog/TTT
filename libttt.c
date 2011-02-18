@@ -22,7 +22,7 @@
  *
  *
  * Author:
- *			dronkit@kernelfusion.com.ar
+ *			marcelog@gmail.com
  *
  * Thanks to drakorg (drakorg@gmail.com) for 
  * helping me out with solveState() ;) (you, prick!)
